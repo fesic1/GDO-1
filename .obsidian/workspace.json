@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "cf40b6732dabbfd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c0d1cc6f9a4cfc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d515eb2e2ce9834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Навыки/Выстрел.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "255a03f8e31d9c83",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c6e71613fad76db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00b9cf64dd0ac95b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc3d8724d25e222b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a76c5c3ea50eee06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51dc9eff891e857f",
+    "type": "split",
+    "children": [
+      {
+        "id": "743ae52dad7ee372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78ffb55bfff20f6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Навыки/Выстрел.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28d099cd04561c06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Навыки/Выстрел.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e49808c5080debbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "278ada708e0973d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Навыки/Выстрел.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7d515eb2e2ce9834",
+  "lastOpenFiles": [
+    "Навыки/Чтение гримуаров.md",
+    "Навыки/Цепное исцеление.md",
+    "Навыки/Цепная молния.md",
+    "Навыки/Форма первого чемпиона.md",
+    "Навыки/Стойка дракона.md",
+    "Навыки/Сброс следов.md",
+    "Навыки/Разрез.md",
+    "Навыки/Приказ.md",
+    "Навыки/Поиск слабостей.md",
+    "Навыки/Очарование.md",
+    "Навыки/Облик владыки.md",
+    "Навыки/Выстрел.md",
+    "Навыки/Врата к первому источнику.md",
+    "Навыки/Настрой.md",
+    "Навыки/Иллюзорный образ.md",
+    "Навыки/Боевой рык.md"
+  ]
+}
